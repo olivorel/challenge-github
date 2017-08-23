@@ -5,6 +5,8 @@ https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
 ***********
 Créer un nouveau commit:
 
+git add nom du fichier => fait rentrer le nom du fichier 
+
 git commit -m 'message du commit' => Committe vos fichiers, en ajoutant le message "message du commit"
 
 git remote add origin https://url de votre dossier.git => Crée un remote nommé "origin" pointant votre dépôt GitHub
